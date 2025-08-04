@@ -1,5 +1,6 @@
 # MIST
 Code repository for the MIST (Mineral Identification by Stoichiometry) model developed at Rice University
+
 Program name: MIST (Mineral Identification by SToichiometry)
 Manuscript title: MIST: An Online Tool Automating Mineral Identification by Stoichiometry
 Authors: Kirsten L. Siebach, Eleanor L. Moreland, Gelu Costin, Yueyang Jiang
