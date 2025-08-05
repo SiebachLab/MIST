@@ -5,7 +5,7 @@ Program name: MIST (Mineral Identification by SToichiometry)
 Manuscript title: MIST: An Online Tool Automating Mineral Identification by Stoichiometry
 Authors: Kirsten L. Siebach, Eleanor L. Moreland, Gelu Costin, Yueyang Jiang
 Department of Earth, Environmental and Planetary Sciences, Rice University, Houston, TX, 77005, USA 
-ksiebach@rice.edu
+mist@mailman.rice.edu
 
 MIST (MINERAL IDENTIFICATION BY STOICHIOMETRY) SOFTWARE DISCLAIMER, LIABILITY RELEASE, AND EXPRESS ASSUMPTION OF RISK
 
