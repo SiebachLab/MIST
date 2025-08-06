@@ -5,6 +5,13 @@ Siebach et al., (2025) MIST: An Online Tool Automating Mineral Identification by
 
 https://doi.org/10.1016/j.cageo.2025.106021
 
+Code can easily be run online at HTTP://mist.rice.edu
+
+To run on personal Matlab, 
+(1) download input template file and prepare your data according to instructions on first spreadsheet tab (you may also use the example *.csv file provided as a test)
+(2) download all *.m files to the same folder as your input file
+(3) open MIST_main.m and, in the MATLAB command line, run MIST_main("[your_input_filename].csv")
+
 Program name: MIST (Mineral Identification by SToichiometry)
 
 Authors: Kirsten L. Siebach, Eleanor L. Moreland, Gelu Costin, Yueyang Jiang
