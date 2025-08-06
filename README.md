@@ -1,10 +1,16 @@
 # MIST
-Code repository for the MIST (Mineral Identification by Stoichiometry) model developed at Rice University
+Code repository for the MIST (Mineral Identification by Stoichiometry) model developed at Rice University, described in:
+
+Siebach et al., (2025) MIST: An Online Tool Automating Mineral Identification by Stoichiometry, Computers and Geosciences, DOI:10.1016/j.cageo.2025.106021.
+
+https://doi.org/10.1016/j.cageo.2025.106021
 
 Program name: MIST (Mineral Identification by SToichiometry)
-Manuscript title: MIST: An Online Tool Automating Mineral Identification by Stoichiometry
+
 Authors: Kirsten L. Siebach, Eleanor L. Moreland, Gelu Costin, Yueyang Jiang
+
 Department of Earth, Environmental and Planetary Sciences, Rice University, Houston, TX, 77005, USA 
+
 mist@mailman.rice.edu
 
 MIST (MINERAL IDENTIFICATION BY STOICHIOMETRY) SOFTWARE DISCLAIMER, LIABILITY RELEASE, AND EXPRESS ASSUMPTION OF RISK
@@ -20,5 +26,4 @@ LIABILITY RELEASE AND EXPRESS ASSUMPTION OF RISK
 
 You understand that Rice and its faculty, employees, officers, or agents (“Released Parties”), shall not be held liable or responsible in any way for injury, death, or other damages to You, or Your family, heirs, or assigns which may occur as a result of use of the Software or the negligence of any party, including the Released Parties, whether passive or active.
 
-
- BY USING THIS CODE, YOU ACKNOWLEDGE THAT YOU HAVE CAREFULLY READ AND UNDERSTAND THE ABOVE AGREEMENT. YOU EXEMPT AND RELEASE RICE UNIVERSITY, AND ALL RELATED ENTITIES, FROM ALL LIABILITY OR RESPONSIBILITY WHATSOEVER FOR PERSONAL INJURY, PROPERTY DAMAGE, OR WRONGFUL DEATH AS A RESULT OF USING THE SOFTWARE, HOWEVER CAUSED, INCLUDING, BUT NOT LIMITED TO PRODUCT LIABILITY OR NEGLIGENCE OF THE RELEASED PARTIES, WHETHER PASSIVE OR ACTIVE.
+BY USING THIS CODE, YOU ACKNOWLEDGE THAT YOU HAVE CAREFULLY READ AND UNDERSTAND THE ABOVE AGREEMENT. YOU EXEMPT AND RELEASE RICE UNIVERSITY, AND ALL RELATED ENTITIES, FROM ALL LIABILITY OR RESPONSIBILITY WHATSOEVER FOR PERSONAL INJURY, PROPERTY DAMAGE, OR WRONGFUL DEATH AS A RESULT OF USING THE SOFTWARE, HOWEVER CAUSED, INCLUDING, BUT NOT LIMITED TO PRODUCT LIABILITY OR NEGLIGENCE OF THE RELEASED PARTIES, WHETHER PASSIVE OR ACTIVE.
